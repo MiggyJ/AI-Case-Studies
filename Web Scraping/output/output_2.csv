@@ -1,0 +1,101 @@
+Region,Province,Type,Population (2020),Population (2015),Annual Population Growth Rate (2015 - 2020),Area (2013 in km2),Density (2020 per km2),City Count,Municipality Count,Barangay Count
+I – Ilocos Region,Ilocos Norte,province,"609,588","593,081",0.58%,"3,418.75",178,2,21,559
+I – Ilocos Region,Ilocos Sur,province,"706,009","689,668",0.49%,"2,596.00",272,2,32,768
+I – Ilocos Region,La Union,province,"822,352","786,653",0.94%,"1,499.28",548,1,19,576
+I – Ilocos Region,Pangasinan,province,"3,163,190","2,956,726",1.43%,"5,450.59",580,4,44,"1,364"
+II – Cagayan Valley,Batanes,province,"18,831","17,246",1.87%,203.22,93,0,6,29
+II – Cagayan Valley,Cagayan,province,"1,268,603","1,199,320",1.19%,"9,398.07",135,1,28,820
+II – Cagayan Valley,Isabela,province,"1,697,050","1,593,566",1.33%,"13,102.05",130,3,34,"1,055"
+II – Cagayan Valley,Nueva Vizcaya,province,"497,432","452,287",2.02%,"4,813.88",103,0,15,275
+II – Cagayan Valley,Quirino,province,"203,828","188,991",1.60%,"2,319.66",88,0,6,132
+III – Central Luzon,Angeles,city (HUC),"462,928","411,634",2.50%,63.37,"7,305",0,0,33
+III – Central Luzon,Aurora,province,"235,750","214,336",2.03%,"3,133.40",75,0,8,151
+III – Central Luzon,Bataan,province,"853,373","760,650",2.45%,"1,372.98",622,1,11,237
+III – Central Luzon,Bulacan,province,"3,708,890","3,292,071",2.54%,"2,783.69","1,332",3,21,569
+III – Central Luzon,Nueva Ecija,province,"2,310,134","2,151,461",1.51%,"5,689.69",406,5,27,849
+III – Central Luzon,Olongapo,city (HUC),"260,317","233,040",2.36%,185.00,"1,407",0,0,17
+III – Central Luzon,Pampanga,province,"2,437,709","2,198,110",2.20%,"2,001.22","1,218",2,19,505
+III – Central Luzon,Tarlac,province,"1,503,456","1,366,027",2.04%,"3,046.49",494,1,17,511
+III – Central Luzon,Zambales,province,"649,615","590,848",2.02%,"3,630.35",179,0,13,230
+IV‑A – CALABARZON,Batangas,province,"2,908,494","2,694,335",1.62%,"3,115.05",934,4,30,"1,078"
+IV‑A – CALABARZON,Cavite,province,"4,344,829","3,678,301",3.57%,"1,526.28","2,847",7,16,829
+IV‑A – CALABARZON,Lucena,"city (HUC), capital","278,924","266,248",0.98%,80.21,"3,477",0,0,33
+IV‑A – CALABARZON,Laguna,province,"3,382,193","3,035,081",2.31%,"1,928.23","1,754",6,24,681
+IV‑A – CALABARZON,Quezon,province,"1,950,459","1,856,582",1.04%,"8,743.84",223,1,39,"1,209"
+IV‑A – CALABARZON,Rizal,province,"3,330,143","2,884,227",3.07%,"1,182.65","2,816",1,13,189
+MIMAROPA Region,Marinduque,province,"239,207","234,521",0.42%,952.58,251,0,6,218
+MIMAROPA Region,Occidental Mindoro,province,"525,354","487,414",1.59%,"5,851.09",90,0,11,164
+MIMAROPA Region,Oriental Mindoro,province,"908,339","844,059",1.56%,"4,238.38",214,1,14,426
+MIMAROPA Region,Palawan,province,"939,594","849,469",2.15%,"14,649.73",64,0,23,367
+MIMAROPA Region,Puerto Princesa,"city (HUC), capital","307,079","255,116",3.98%,"2,381.02",129,0,0,66
+MIMAROPA Region,Romblon,province,"308,985","292,781",1.14%,"1,533.45",201,0,17,219
+V - Bicol Region,Albay,province,"1,374,768","1,314,826",0.94%,"2,574.91",534,3,15,720
+V - Bicol Region,Camarines Norte,province,"629,699","583,313",1.62%,"2,277.93",276,0,12,282
+V - Bicol Region,Camarines Sur,province,"2,068,244","1,952,544",1.22%,"5,511.90",375,2,35,"1,063"
+V - Bicol Region,Catanduanes,province,"271,879","260,964",0.87%,"1,492.16",182,0,11,315
+V - Bicol Region,Masbate,province,"908,920","892,393",0.39%,"4,138.56",220,1,20,550
+V - Bicol Region,Sorsogon,province,"828,655","792,949",0.93%,"2,119.01",391,1,14,541
+CAR – Cordillera Administrative Region,Abra,province,"250,985","241,160",0.84%,"4,199.72",60,0,27,303
+CAR – Cordillera Administrative Region,Apayao,province,"124,366","119,184",0.90%,"4,502.33",28,0,7,133
+CAR – Cordillera Administrative Region,Baguio,"city (HUC), regional center","366,358","345,366",1.25%,57.51,"6,370",0,0,129
+CAR – Cordillera Administrative Region,Benguet,province,"460,683","444,224",0.77%,"2,769.08",166,0,13,140
+CAR – Cordillera Administrative Region,Ifugao,province,"207,498","202,802",0.48%,"2,618.01",79,0,11,176
+CAR – Cordillera Administrative Region,Kalinga,province,"229,570","212,680",1.62%,"3,282.04",70,1,7,153
+CAR – Cordillera Administrative Region,Mountain Province,province,"158,200","154,590",0.49%,"2,389.43",66,0,10,144
+VI – Western Visayas,Aklan,province,"615,475","574,823",1.45%,"1,760.30",350,0,17,327
+VI – Western Visayas,Antique,province,"612,974","582,012",1.10%,"2,730.67",224,0,18,590
+VI – Western Visayas,Bacolod,"city (HUC), capital","600,783","561,875",1.42%,160.71,"3,738",0,0,61
+VI – Western Visayas,Capiz,province,"804,952","761,384",1.18%,"2,594.64",310,1,16,473
+VI – Western Visayas,Guimaras,province,"187,842","174,613",1.55%,611.87,307,0,5,98
+VI – Western Visayas,Iloilo,province,"2,051,899","1,936,423",1.23%,"4,997.64",411,1,42,"1,721"
+VI – Western Visayas,Iloilo City,"city (HUC), capital, regional center","457,626","447,992",0.45%,78.34,"5,842",0,0,180
+VI – Western Visayas,Negros Occidental,province,"2,623,172","2,497,261",1.04%,"7,844.12",334,12,19,601
+VII – Central Visayas,Bohol,province,"1,394,329","1,313,560",1.26%,"4,772.52",292,1,47,"1,109"
+VII – Central Visayas,Cebu,province,"3,325,385","2,938,982",2.63%,"4,943.72",673,6,44,"1,066"
+VII – Central Visayas,Cebu City,"city (HUC), capital, regional center","964,169","922,611",0.93%,315.00,"3,061",0,0,80
+VII – Central Visayas,Lapu-Lapu,city (HUC),"497,604","408,112",4.26%,58.10,"8,565",0,0,30
+VII – Central Visayas,Mandaue,city (HUC),"364,116","362,654",0.08%,25.18,"14,461",0,0,27
+VII – Central Visayas,Negros Oriental,province,"1,432,990","1,354,995",1.19%,"5,420.57",264,6,19,557
+VII – Central Visayas,Siquijor,province,"103,395","95,984",1.58%,337.49,306,0,6,134
+VIII – Eastern Visayas,Biliran,province,"179,312","171,612",0.93%,536.01,335,0,8,132
+VIII – Eastern Visayas,Eastern Samar,province,"477,168","467,160",0.45%,"4,617.16",103,1,22,597
+VIII – Eastern Visayas,Leyte,province,"1,776,847","1,724,679",0.63%,"6,335.44",280,2,40,"1,503"
+VIII – Eastern Visayas,Northern Samar,province,"639,186","632,379",0.23%,"3,694.96",173,0,24,569
+VIII – Eastern Visayas,Samar,province,"793,183","780,481",0.34%,"6,048.03",131,2,24,951
+VIII – Eastern Visayas,Southern Leyte,province,"429,573","421,750",0.39%,"1,801.46",238,1,18,500
+VIII – Eastern Visayas,Tacloban,"city (HUC), capital, regional center","251,881","242,089",0.84%,201.72,"1,249",0,0,138
+IX – Zamboanga Peninsula,Isabela City,"city (CC), capital","130,379","112,788",3.10%,223.73,583,0,0,45
+IX – Zamboanga Peninsula,Zamboanga City,city (HUC),"977,234","861,799",2.68%,"1,414.70",691,0,0,98
+IX – Zamboanga Peninsula,Zamboanga del Norte,province,"1,047,455","1,011,393",0.74%,"7,300.11",143,2,25,691
+IX – Zamboanga Peninsula,Zamboanga del Sur,province,"1,050,668","1,010,674",0.82%,"4,484.21",234,1,26,681
+IX – Zamboanga Peninsula,Zamboanga Sibugay,province,"669,840","633,129",1.19%,"3,481.28",192,0,16,389
+X – Northern Mindanao,Bukidnon,province,"1,541,308","1,415,226",1.81%,"10,498.59",147,2,20,464
+X – Northern Mindanao,Cagayan de Oro,"city (HUC), capital, regional center","728,402","675,950",1.59%,412.80,"1,765",0,0,80
+X – Northern Mindanao,Camiguin,province,"92,808","88,478",1.01%,241.44,384,0,5,58
+X – Northern Mindanao,Iligan,city (HUC),"363,115","342,618",1.23%,813.37,446,0,0,44
+X – Northern Mindanao,Lanao del Norte,province,"722,902","676,395",1.41%,"3,354.16",216,0,22,462
+X – Northern Mindanao,Misamis Occidental,province,"617,333","602,126",0.53%,"2,006.63",308,3,14,490
+X – Northern Mindanao,Misamis Oriental,province,"956,900","888,509",1.57%,"3,131.52",306,2,23,424
+XI – Davao Region,Davao de Oro,province,"767,547","736,107",0.88%,"4,560.09",168,0,11,237
+XI – Davao Region,Davao City,"city (HUC), regional center","1,776,949","1,632,991",1.79%,"2,443.61",727,0,0,182
+XI – Davao Region,Davao del Norte,province,"1,125,057","1,016,332",2.16%,"3,422.61",329,3,8,223
+XI – Davao Region,Davao del Sur,province,"680,481","632,588",1.55%,"2,163.98",314,1,9,232
+XI – Davao Region,Davao Occidental,province,"317,159","316,342",0.05%,"2,163.45",147,0,5,105
+XI – Davao Region,Davao Oriental,province,"576,343","558,958",0.65%,"5,679.64",101,1,10,183
+XII – SOCCSKSARGEN,Cotabato,province,"1,490,618","1,379,747",1.64%,"9,317.30",160,1,17,543
+XII – SOCCSKSARGEN,Cotabato City,"city (ICC), regional center","325,079","299,438",1.74%,176.00,"1,847",0,0,37
+XII – SOCCSKSARGEN,General Santos,city (HUC),"697,315","594,446",3.42%,492.86,"1,415",0,0,26
+XII – SOCCSKSARGEN,Sarangani,province,"558,946","544,261",0.56%,"3,642.16",153,0,7,141
+XII – SOCCSKSARGEN,South Cotabato,province,"975,476","915,289",1.35%,"3,793.90",257,1,10,199
+XII – SOCCSKSARGEN,Sultan Kudarat,province,"854,052","812,095",1.07%,"5,363.86",159,1,11,249
+XIII – Caraga,Agusan del Norte,province,"387,503","354,503",1.89%,"2,611.63",148,1,10,167
+XIII – Caraga,Agusan del Sur,province,"739,367","700,653",1.14%,"9,989.52",74,1,13,314
+XIII – Caraga,Butuan,"city (HUC), regional center","372,910","337,063",2.15%,816.62,457,0,0,86
+XIII – Caraga,Dinagat Islands,province,"128,117","127,152",0.16%,817.47,157,0,7,100
+XIII – Caraga,Surigao del Norte,province,"534,636","485,088",2.07%,"1,952.62",274,1,20,335
+XIII – Caraga,Surigao del Sur,province,"642,255","592,250",1.72%,"4,932.70",130,2,17,309
+BARMM – Bangsamoro Autonomous Region in Muslim Mindanao,Basilan,province,"426,207","346,579",4.45%,"3,453.42",123,1,11,210
+BARMM – Bangsamoro Autonomous Region in Muslim Mindanao,Lanao del Sur,province,"1,195,518","1,045,429",2.86%,"15,055.51",79,1,39,"1,159"
+BARMM – Bangsamoro Autonomous Region in Muslim Mindanao,Maguindanao,province,"1,342,179","1,173,933",2.86%,"9,968.31",135,0,36,508
+BARMM – Bangsamoro Autonomous Region in Muslim Mindanao,Sulu,province,"1,000,108","824,731",4.14%,"4,547.16",220,0,19,410
+BARMM – Bangsamoro Autonomous Region in Muslim Mindanao,Tawi-Tawi,province,"440,276","390,715",2.55%,"3,626.55",121,0,11,203
